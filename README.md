@@ -96,7 +96,7 @@ README.md → Project documentation
 
 ## 🔗 Project Links
 
-* GitHub Repository: (Add your link here)
+* GitHub Repository: https://github.com/apoorvds99/Customer-Trends-Data-Analysis-SQL-Python-PowerBI
 
 ---
 
